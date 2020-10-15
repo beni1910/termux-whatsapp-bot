@@ -270,7 +270,7 @@ else if (msg.body.startsWith("!ig ")) {
 Judul : ${judul1}
 			  
 			  
- 👾 Instagram Downloader By InsideHeartz 👾`
+ 🤖 Instagram Downloader By Benni Ismael 🤖`
           );
 		  
 exec('wget "' + text + '" -O mp4/'+ namafile +'.mp4', (error, stdout, stderr) => {
@@ -367,7 +367,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020👾
+  🤖 ngBot 2020 🤖
  
  `); 
 });
@@ -404,7 +404,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020 👾
+  🤖 ngBot 2020 🤖
  
  `); 
 });
@@ -446,8 +446,8 @@ Nama : *${data.title}*
 Artis : *${data.artist}*
 
    ----------------------------------
-👾                          👾
-  _Ytmp3 WhatsApp By InsideBot_
+🤖                          🤖
+  _Ytmp3 WhatsApp By ngBot_
 `);
 chat.sendMessage(media);
 });
@@ -504,7 +504,7 @@ msg.reply(
          Nama _*${nama}*_ ${h}
   ----------------------------------
 
-  _InsideBot_
+  _ngBot_
 `
         );
 });
@@ -540,7 +540,7 @@ console.log(""+ h);
          Nama ${h}
   ----------------------------------
 
-  _Primbon WhatsApp By InsideBot_
+  _Primbon WhatsApp By Benni ismael_
 `
         );
 });
@@ -557,7 +557,7 @@ client.sendMessage(
  ${body}
 
 
-Powered by _fdcibot_
+Powered by _ngbot_
 `));
 }
  else if (msg.body.startsWith("!yt ")) {
@@ -596,7 +596,7 @@ client.sendMessage(
  ${body}
 
 
-Powered by _fdcibot_
+Powered by _ngbot_
 `));
 }
  else if (msg.body.startsWith("!resi ")) {
@@ -680,55 +680,72 @@ Powered by _fdcibot_
     client.sendMessage(
       msg.from,
       `  
-◦•●◉✿ ஜ۩۞۩ஜ 𝐈𝐧𝐬𝐢𝐝𝐞 𝐁𝐨𝐭 ஜ۩۞۩ஜ  ✿◉●•◦
+◦•●◉✿ ஜ۩۞۩ஜ NEO GAMING ஜ۩۞۩ஜ  ✿◉●•◦
 
   
 
 
-👾 List Menu Bot :
+☠️ List Menu Bot :
 
- ◦🌉 *_ɦσɾσรcσρε* ~_ 
+ ◦🤖 *_BOT_STYLE* ~_ 
 
-🌠 *!nama* <nama>
+🤖 *!nama* <nama>
  *_cari arti dari namamu_* 
 
  contoh _!nama Maudy Ayunda_ 
  
- 🌠 *!quotes*
+ 🤖 *!quotes*
  *_random quotes dari tokoh terkenal_* 
 
-🌠 *!sifat* [nama] tt-mm-yy
+🤖 *!sifat* [nama] tt-mm-yy
  *_cari sifat berdasarkan nama dan tanggal lahir_* 
 
  contoh _!sifat [Maudy Ayunda] 31-08-199_ 
 
-🌠 *!sial* tt mm yy
+🤖 *!sial* tt mm yy
  *_cek hari apes mu_* 
 
  contoh _!sial 17 08 1945_ 
 
-🌠 *!pasangan* namamu & pasanganmu
+🤖 *!pasangan* namamu & pasanganmu
  *_Cek kecocokan jodoh_* 
 
  contoh _!pasangan Riska & Ali_ 
 
-🗃 *_ժօաղlօαժҽɾ* ~_
+🤖 *_ժօաղlօαժҽɾ* ~_
 
-🔖 *!fb* <url>
+🤖 *!fb* <url>
  *downloader facebook_* 
  
-🔖 *!ig* <url>
+🤖 *!ig* <url>
  *downloader instagram* 
-
-🔖 *!ytmp3* <url>
+ 
+🤖 *!ytmp3* <url>
  *konversi youtube ke mp3_* 
+ 
+🤖 *!coronaOld* <url>
+ *Update Covid-19 Terkini_* 
+ 
+🤖 *!Al-Quran* <url>
+ *Cek ayat Al-Quaran_* 
+ 
+🤖 *!resi* <url>
+ *_CEK RESI VIA WHATSAPP_* 
+ 
+🤖 *!mention* 
+ 
+🤖 *!grouplocalData* 
+
+🤖 *!location* <url>
+ 
+
+Jangan Lupa Follow Instagram : @Beni_230
 
 
-              🅜🅞🅡🅔    
-   🅕🅔🅐🅣🅤🅡🅔🅢 🅘🅢 
-🅒🅞🅞🅜🅘🅝🅖 🅢🅞🅞🅝
+         🅜🅞🅡🅔    
+   🅕🅔🅐🅣🅤🅡🅔
 
- _Powered By_ : 💞 *InsideHeartz*
+ _Powered By_ : 💞 *NEO GAMING*
 
 `
     );
@@ -961,7 +978,7 @@ Stay safe ya semuanya , jaga kesehatan nya masing masing`
        _${item.id}_
   ----------------------------------
 
-  _Al-Quran WhatsApp By Abdul Muttaqin_
+  _Al-Quran WhatsApp By Benni ismael_
 `
           );
         });
